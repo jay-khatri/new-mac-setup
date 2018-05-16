@@ -21,13 +21,20 @@
   - Configure shortcuts to your liking
   
 - Alfred: https://www.alfredapp.com/
-  - Map [Cmd + Space] to Alfred
+  - Map *Cmd + Space* to Alfred
     - Deactive the shortcut for spotlight search
-    - Go to [Alfred Preferences -> General -> Hotkey]
+    - Go to Alfred Preferences -> General -> Hotkey
 
 ## OS Configuration:
 
 - Enable tap with one finger in Trackpad Settings
 - Enable "three finger drag": https://support.apple.com/en-us/HT204609
+- In Keyboard settings, set *Key Repeat* and *Delay Until Repeat* to the highest setting
+- Only show running apps in the dock: `defaults write com.apple.dock static-only -bool true; killall Dock`
 
 ## Terminal Configuration:
+
+- Install homebrew: https://brew.sh/
+- Install zsh and ohmyzsh: http://sourabhbajaj.com/mac-setup/iTerm/zsh.html
+- Install python3
+
