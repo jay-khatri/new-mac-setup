@@ -36,5 +36,7 @@
 
 - Install homebrew: https://brew.sh/
 - Install zsh and ohmyzsh: http://sourabhbajaj.com/mac-setup/iTerm/zsh.html
-- Install python3
+  - to fixture the question marks in the theme: https://github.com/robbyrussell/oh-my-zsh/issues/1906#issuecomment-252443982
+- Install python3 w/ `brew install python`
+
 
