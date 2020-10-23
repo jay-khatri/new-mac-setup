@@ -17,7 +17,7 @@
 
 - VsCode: https://code.visualstudio.com/download
 
-- Magnet: http://magnet.crowdcafe.com/
+- Rectangle: https://rectangleapp.com/
   - Configure shortcuts to your liking
   
 - Alfred: https://www.alfredapp.com/
